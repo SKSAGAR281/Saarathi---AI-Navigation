@@ -1,4 +1,6 @@
-🧭 Saarathi
+**🧭 Saarathi**
+
+
 आपका AI नेविगेशन साथी | Your AI Navigation Companion
 "आत्मविश्वास से नेविगेट करें | Navigate with confidence, powered by voice."
 
@@ -9,7 +11,8 @@ It transforms smartphones into AI-based guides, offering independent, confident,
 
 
 
-❗ The Problem
+**❗ The Problem**
+
 Navigating public buildings, campuses, and offices remains a major challenge for the visually impaired due to:
 
 🚫 Lack of accessible signage or tactile maps
@@ -19,9 +22,10 @@ Navigating public buildings, campuses, and offices remains a major challenge for
 🎯 Target Users:
 Visually impaired individuals, elderly citizens, mobility-challenged users, and organizations promoting accessibility
 
-💡 Our AI-Powered Solution – Saarathi
-A bilingual, mobile-first platform offering hands-free, real-time navigation using:
 
+**💡 Our AI-Powered Solution – Saarathi**
+
+A bilingual, mobile-first platform offering hands-free, real-time navigation using:
 🧠 Voice AI – Command-based navigation using natural language
 🛰️ Indoor AR Mapping – Real-time pathfinding using ARCore + crowd-input
 🧭 Object & Obstacle Detection – Alerts based on camera vision using TensorFlow
@@ -29,7 +33,8 @@ A bilingual, mobile-first platform offering hands-free, real-time navigation usi
 🛠️ Smart Destinations – Set your desired room, counter, elevator, or exit easily
 
 
-✨ Key Features
+**✨ Key Features**
+
 🔧 Module	🧠 Description
 🗣️ Voice-Driven Interface	Navigate buildings with voice commands in Hindi & English
 📷 Camera-Based Detection	Recognizes objects, doors, stairs using AI vision
@@ -38,7 +43,8 @@ A bilingual, mobile-first platform offering hands-free, real-time navigation usi
 🌐 Cloud + Offline Mode	Uses Firebase when online, works with cache in low-connectivity areas
 🫱 Gesture or Tap Activation	Alternate activation via volume button or screen tap
 
-🧪 Tech Stack
+**🧪 Tech Stack**
+
 Layer	Tech Used
 📱 Frontend:- React Native, Expo, TailwindCSS
 🧠 AI Engine:- 	TensorFlow.js, face-api.js, voice-recognition APIs
@@ -46,17 +52,20 @@ Layer	Tech Used
 📡 Navigation:-	ARCore, Google Maps Indoor, Custom Floor Plans
 📥 Deployment:-	Netlify + Play Store PWA + Fallback Mode
 
-📈 Real-World Impact
+**📈 Real-World Impact**
+
 👥 Group	💡 Impact
 👨‍🦯 Visually Impaired	Enables independent and confident building navigation
 👵 Seniors	Reduces fall risks, increases mobility
 🏥 Hospitals & Gov Buildings	Accessibility compliance & service satisfaction
 🏫 Colleges & Events	Inclusion, safe navigation in large campuses
 🌐 Smart Cities	Scalable accessibility upgrade for public spaces
-
 ✅ Multilingual. AI-powered. Inclusive by design.
 
-🏆 Why Saarathi Wins in Maverick Effect
+
+
+**🏆 Why Saarathi Wins in Maverick Effect**
+
 ✅ Solves a real accessibility problem
 ✅ Empowers users with independence, not dependency
 ✅ Voice-first & bilingual — no typing, no screen needed
@@ -64,23 +73,29 @@ Layer	Tech Used
 ✅ Built using scalable, real-time tech stack
 ✅ Inclusive design thinking = WOW factor
 
-📂 Links & Credits
+
+
+**📂 Links & Credits**
+
 🌐 Live App: https://saarathi-ai.netlify.app (example placeholder)
 💾 GitHub Repo: (Link here once uploaded)
 📄 PDF Pitch Deck: (Available upon request)
 🎥 Demo Video: Available upon request
 
 
-👨‍💻 Developer: SK Sagar 
+**👨‍💻 Developer: SK Sagar 
 🧠 Inspired by: Seeing AI, Be My Eyes, and Indian accessibility needs
-🎨 Backed by: OpenAI, TensorFlow, Firebase
+🎨 Backed by: OpenAI, TensorFlow, Firebase**
 
-📄 License
+
+**📄 License**
+
 MIT License – Built open-source for a more inclusive future.
 
 🏷 Tags
 #MaverickEffect2025 #AI4Accessibility #SaarathiAI #VoiceNavigation #AIForGood #DisabilityTech #ReactNative #TensorFlow #Firebase #NeuroNav
 
-💬 Final Quote
+**💬 Final Quote
 🗣️ “जहाँ दृष्टि नहीं पहुँचती, वहाँ सारथी साथ चलता है।”
 "Where vision can’t reach, Saarathi walks beside you."
+**
