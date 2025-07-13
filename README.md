@@ -4,9 +4,6 @@
 > *"Where vision can’t reach, Saarathi walks beside you."*
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_BADGE_ID/deploy-status)](https://saarathi-ai.netlify.app)
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-![Tech](https://img.shields.io/badge/Built%20With-React%20Native%20%7C%20TensorFlow%20%7C%20Firebase-blue)
-
 ---
 
 ### 🧠 Saarathi is an AI-powered, voice-based navigation assistant for the visually impaired — designed to help users confidently navigate complex public spaces using real-time auditory feedback and object detection.
